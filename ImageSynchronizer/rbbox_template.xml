@@ -1,0 +1,28 @@
+<annotation verified="no">
+  <folder>{{ folder }}</folder>
+  <filename>{{ filename }}</filename>
+  <path>{{ path }}</path>
+  <source>
+    <database>{{ database }}</database>
+  </source>
+  <size>
+    <width>{{ width }}</width>
+    <height>{{ height }}</height>
+    <depth>{{ depth }}</depth>
+  </size>
+  <segmented>{{ segmented }}</segmented>
+{% for object in objects %}    <object>
+    <type>robndbox</type>
+    <name>{{ object.name }}</name>
+    <pose>{{ object.pose }}</pose>
+    <truncated>{{ object.truncated }}</truncated>
+    <difficult>{{ object.difficult }}</difficult>
+    <robndbox>
+      <cx>{{ object.cx }}</cx>
+      <cy>{{ object.cy }}</cy>
+      <w>{{ object.w }}</w>
+      <h>{{ object.h }}</h>
+      <angle>{{ object.angle }}</angle>
+    </robndbox>
+  </object>{% endfor %}
+</annotation>
