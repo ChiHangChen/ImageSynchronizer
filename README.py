@@ -25,7 +25,7 @@
 #     [Linux](https://docs.microsoft.com/zh-tw/sql/connect/odbc/linux-mac/installing-the-microsoft-odbc-driver-for-sql-server?view=sql-server-ver15)    
 #     [Windows](https://docs.microsoft.com/zh-tw/sql/connect/odbc/download-odbc-driver-for-sql-server?view=sql-server-ver15)     
 #
-#  2. Download the package from this [link](https://ulsee01-my.sharepoint.com/:u:/g/personal/jim_chen_ulsee_com/EXJclaGq-vZKl2VPW55_PSIBsK48HuluaWQ3wz4IQCLWGQ?e=00PhFN) (Only allow ULSee domain to download).
+#  2. Download the package from this [link](https://github.com/ChiHangChen/ImageSynchronizer)
 #
 #  3. Install by : 
 #  
