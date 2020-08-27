@@ -13,7 +13,7 @@ install_requires = [
 
 setup(
         name='ImageSynchronizer',
-        version='0.3.5',
+        version='0.4.0',
         description='ImageSynchronizer is an image dataset management project.',
         author='JimChen',
         author_email='jim71183@gmail.com',

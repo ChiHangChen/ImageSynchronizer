@@ -11,3 +11,4 @@ README.html
 .Rhistory
 .ipynb_checkpoints
 imgs
+build_whl.txt
