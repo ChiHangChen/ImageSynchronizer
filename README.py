@@ -25,13 +25,13 @@
 #     [Linux](https://docs.microsoft.com/zh-tw/sql/connect/odbc/linux-mac/installing-the-microsoft-odbc-driver-for-sql-server?view=sql-server-ver15)    
 #     [Windows](https://docs.microsoft.com/zh-tw/sql/connect/odbc/download-odbc-driver-for-sql-server?view=sql-server-ver15)     
 #
-#  2. Download the package from this [link](https://github.com/ChiHangChen/ImageSynchronizer)
+#  2. Download the package from this [link](https://github.com/ChiHangChen/ImageSynchronizer/releases/tag/v0.4.0)
 #
-#  3. Install by : 
+#  3. Install by the following command: 
 #  
-#  Windows : `python setup.py install`
+#  Windows : `python setup.py ImageSynchronizer-x.x.x-py3-none-any.whl`
 #  
-#  Linux : `sudo python3 setup.py install`
+#  Linux : `sudo python3 setup.py ImageSynchronizer-x.x.x-py3-none-any.whl`
 #
 #
 # #### How ImageSynchronizer work?
