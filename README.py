@@ -39,7 +39,7 @@
 
 # ***
 
-# # 2. How dataset naming?
+# # 2. How is dataset named?
 
 # ### Dataset name format : 
 #
